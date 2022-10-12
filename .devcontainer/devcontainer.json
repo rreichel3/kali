@@ -1,3 +1,6 @@
 {
-    "image": "rreichel3/kali-fully-loaded"
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "."
+    }
 }
